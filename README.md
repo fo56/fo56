@@ -130,8 +130,8 @@ you fill blocks in as the day goes, and the daily and weekly graphs show where t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fo56&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5197E&icon_color=3DDC55&text_color=808080&hide=issues" alt="stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fo56&layout=compact&hide_border=true&bg_color=00000000&title_color=E5197E&text_color=808080&langs_count=8" alt="top languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fo56&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5197E&icon_color=3DDC55&text_color=808080&hide=issues" alt="stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fo56&layout=compact&hide_border=true&bg_color=00000000&title_color=E5197E&text_color=808080&langs_count=8" alt="top languages" height="165" />
 
 </div>
 
