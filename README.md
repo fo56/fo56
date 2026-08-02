@@ -1,62 +1,38 @@
 <div align="center">
 
-<img src="banner2.png" alt="gaurisha" width="100%" />
-
-
+<img src="banner2.png" alt="gaurisha" width="56%" />
 
 </div>
 
----
-
 ### about
 
-i like building systems end to end — auth, data, the interface, the boring parts — mostly because i wanted the thing to exist for myself first.
-
-i care about how something looks as much as how it works. layout, type, spacing, the feel of an interaction. a tool i don't enjoy opening is a tool i stop using.
-
-right now i'm most interested in finance and markets, and in making hard systems easier to read.
+i like building systems end to end — auth, data, the interface, the boring parts — mostly because i wanted the thing to exist for myself first. i care about how something looks as much as how it works. layout, type, spacing, the feel of an interaction. a tool i don't enjoy opening is a tool i stop using. right now i'm most interested in finance and markets, and in making hard systems easier to read.
 
 ---
 
 ### stack
-
-**languages**
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-**frontend**
-
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-**backend**
-
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**data and ai**
-
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/chromadb-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-
-**tooling**
-
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
@@ -114,27 +90,12 @@ you fill blocks in as the day goes, and the daily and weekly graphs show where t
 
 </div>
 
----
-
-### stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fo56&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5197E&icon_color=3DDC55&text_color=808080&hide=issues" alt="stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fo56&layout=compact&hide_border=true&bg_color=00000000&title_color=E5197E&text_color=808080&langs_count=8" alt="top languages" height="165" />
-
-</div>
 
 ---
 
 ### links
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fo56)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurisha-agarwal-b01718254/)
-[![Email](https://img.shields.io/badge/email-E5197E?style=for-the-badge&logo=gmail&logoColor=white)](gaurisha2605@gmail.com)
+[![Email](https://img.shields.io/badge/email-E5197E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurisha2605@gmail.com)
 
-<!-- add links above -->
-
-</div>
