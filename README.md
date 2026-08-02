@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="gaurisha" width="100%" />
+<img src="banner2.png" alt="gaurisha" width="100%" />
 
 
 
