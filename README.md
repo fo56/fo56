@@ -14,7 +14,7 @@ i like building systems end to end — auth, data, the interface, the boring par
 
 i care about how something looks as much as how it works. layout, type, spacing, the feel of an interaction. a tool i don't enjoy opening is a tool i stop using.
 
-right now i'm most interested in finance and markets, and in making systems that are hard to read, easier to read.
+right now i'm most interested in finance and markets, and in making hard systems easier to read.
 
 ---
 
@@ -62,16 +62,6 @@ right now i'm most interested in finance and markets, and in making systems that
 
 ### projects
 
-**invoicechain** — a decentralised marketplace where small businesses tokenise unpaid invoices and investors buy fractions of them.
-
-invoices are read with ocr, canonicalised, then hashed with keccak256 and registered on-chain, so the same invoice can never be sold twice. minted as erc-1155, sold through auctions or fixed listings, settled through contract escrow. each listing carries a risk score from a model trained on payment history and seller track record.
-
-`next.js` `fastapi` `postgresql` `solidity` `hardhat` `ethers.js` `tesseract` `xgboost`
-
-→ [repo](https://github.com/fo56/Invoice-Chain) <!-- add link -->
-
-<br />
-
 **sentinelops nexus** — mission planner with document search that runs entirely on local hardware.
 
 the retrieval layer filters by role before the model sees anything, so out-of-scope documents are rejected at the vector query, not by asking the model to behave. answers below a similarity threshold short-circuit to a fallback instead of guessing. kanban board updates live over websockets. includes a stress-test suite that tries to leak documents across roles and reports whether the boundaries hold.
@@ -89,6 +79,16 @@ multiple hostels on one backend with strict data separation. students join throu
 `typescript` `react` `express` `mongodb` `socket.io` `tailwind`
 
 → [repo](https://github.com/fo56/hostelHub) <!-- add link -->
+
+<br />
+
+**invoicechain** — a decentralised marketplace where small businesses tokenise unpaid invoices and investors buy fractions of them.
+
+invoices are read with ocr, canonicalised, then hashed with keccak256 and registered on-chain, so the same invoice can never be sold twice. minted as erc-1155, sold through auctions or fixed listings. each listing carries a risk score from a model trained on payment history and seller track record.
+
+`next.js` `fastapi` `postgresql` `solidity` `hardhat` `ethers.js` `tesseract` `xgboost`
+
+→ [repo](https://github.com/fo56/Invoice-Chain) <!-- add link -->
 
 <br />
 
@@ -113,16 +113,6 @@ you fill blocks in as the day goes, and the daily and weekly graphs show where t
 </picture>
 
 </div>
-
----
-
-### interests
-
-**finance** — markets, and building trading systems that work the way i want them to rather than the way a dashboard decides. this is the direction i want to keep going in.
-
-**legible public systems** — an idea i keep coming back to: laws and parliamentary activity in india presented so a normal person can follow them. what a law actually says, what questions each constituency's representative is raising, sorted by topic. closer to what the netherlands does. not political, just curious what it would take to make it readable. not building it yet.
-
-**interfaces** — pixel art, layout, type, small interactions. the part i enjoy most.
 
 ---
 
